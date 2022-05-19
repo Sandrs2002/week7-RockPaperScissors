@@ -1,0 +1,15 @@
+/Users/aleks/Projects/RockPaperScissors/bin/Debug/net5.0/RockPaperScissors.deps.json
+/Users/aleks/Projects/RockPaperScissors/bin/Debug/net5.0/RockPaperScissors.runtimeconfig.json
+/Users/aleks/Projects/RockPaperScissors/bin/Debug/net5.0/RockPaperScissors.runtimeconfig.dev.json
+/Users/aleks/Projects/RockPaperScissors/bin/Debug/net5.0/RockPaperScissors.dll
+/Users/aleks/Projects/RockPaperScissors/bin/Debug/net5.0/ref/RockPaperScissors.dll
+/Users/aleks/Projects/RockPaperScissors/bin/Debug/net5.0/RockPaperScissors.pdb
+/Users/aleks/Projects/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.csproj.AssemblyReference.cache
+/Users/aleks/Projects/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.AssemblyInfoInputs.cache
+/Users/aleks/Projects/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.AssemblyInfo.cs
+/Users/aleks/Projects/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.dll
+/Users/aleks/Projects/RockPaperScissors/obj/Debug/net5.0/ref/RockPaperScissors.dll
+/Users/aleks/Projects/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.pdb
+/Users/aleks/Projects/RockPaperScissors/obj/Debug/net5.0/RockPaperScissors.genruntimeconfig.cache
